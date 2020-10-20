@@ -13,7 +13,7 @@
             ],
             "program": "${workspaceFolder}/buggy-scripts.js",
             "args": [  "./source.txt", 
-                "./node-first-assignment"]
+                "./dist"]
         }
     ]
 }
